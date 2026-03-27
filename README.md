@@ -44,8 +44,8 @@ https://github.com/khaleedolawale/hospital-management
 - JavaScript  
 
 ### Backend
-- PHP *(or replace with your actual backend if different)*  
-- MySQL *(or your database)*  
+- PHP 
+- MySQL
 
 ### Tools
 - phpMyAdmin  
