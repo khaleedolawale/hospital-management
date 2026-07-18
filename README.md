@@ -10,6 +10,12 @@ This system provides an efficient way to manage hospital activities through a us
 
 ---
 
+## Live Demo
+
+Currently unavailable.
+
+This project is a PHP/MySQL application developed for local deployment using XAMPP. A live deployment is planned in the future.
+
 ## 💻 GitHub Repository
 https://github.com/khaleedolawale/hospital-management
 
